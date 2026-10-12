@@ -1,0 +1,28 @@
+{
+    "nomeDoArquivo": "teste.pdf",
+    "totalPaginas": 2,
+    "paginas": [
+        {
+            "pagina": 1,
+            "totalLinhas": 5,
+            "linhas": [
+                "PDF de Teste para Leitura via JavaScript",
+                "Parabéns! Se você está lendo este texto na sua aplicação ou no console do navegador, significa que o",
+                "seu código de extração com PDF.js funcionou perfeitamente.",
+                "Este arquivo foi gerado automaticamente para servir como uma massa de dados simples, contendo",
+                "texto estruturado e limpo em múltiplas páginas."
+            ]
+        },
+        {
+            "pagina": 2,
+            "totalLinhas": 5,
+            "linhas": [
+                "Segunda Página do Documento",
+                "Esta é a página número dois do seu teste.",
+                "O loop do seu script 'for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++)' deve ser capaz",
+                "de identificar esta quebra e extrair este texto de forma independente.",
+                "Código de validação de sucesso: [JS-PDF-SUCCESS-2026]"
+            ]
+        }
+    ]
+}
